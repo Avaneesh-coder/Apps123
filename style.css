@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: aqua;
+    
+}
+#game{
+    background-color: rgb(39, 191, 191);
+    
+}
+#bot{
+    background-color: rgb(52, 52, 190);
+    
+}
+.line {
+    height: 6px;
+    background-color: aquamarine;
+    width: 70px;
+    margin: 8px auto;
+}
